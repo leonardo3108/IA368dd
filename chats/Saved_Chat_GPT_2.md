@@ -22,7 +22,8 @@ k and b: free parameters used to control the impact of term frequency and docume
 The formula calculates a score for each document based on the term frequencies in the document and the query, as well as some characteristics of the corpus. The score represents the relevance of the document to the query, with higher scores indicating greater relevance.
 
 In general, BM25 is a more complex ranking function than TF-IDF, but it has been shown to perform better in many information retrieval tasks, especially those involving longer queries and larger document collections.
---------------------------
+
+
 how could i improve a search system beyond bm25 score using gpt-3?
 --------------------------
 Integrating GPT-3 into a search system can potentially enhance the relevance of search results beyond what is possible with the BM25 score. Here are some ways to do so:
@@ -38,7 +39,8 @@ Personalize search results: GPT-3 can be used to personalize search results base
 Improve natural language understanding: GPT-3 can be used to improve the search system's natural language understanding by analyzing the user's query and identifying the underlying intent behind the search. This can help the system to better match the user's query with relevant content and provide more accurate search results.
 
 These are just a few examples of how GPT-3 can be used to improve a search system beyond the BM25 score. The specific implementation will depend on the particular use case and requirements of the search system.
---------------------------
+
+
 What are Information Retrieval systems?
 --------------------------
 Information Retrieval (IR) systems are computer systems designed to help users find information within a large collection of documents, such as text, images, audio or video. The goal of an IR system is to retrieve relevant documents from a collection, based on a user's query, in order to provide the most relevant and useful results.
@@ -58,5 +60,4 @@ Relevance feedback: Some systems may incorporate feedback from the user to impro
 User interface: The system's user interface is the means by which the user interacts with the system to input queries and receive search results.
 
 Overall, IR systems play an important role in facilitating access to information, and they continue to be an active area of research and development as the volume and variety of digital information continues to grow.
---------------------------
 NEW
