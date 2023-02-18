@@ -21,7 +21,8 @@ tar -xzvf cisi.tar.gz -C /path/to/destination/directory
 
 
 This will extract the files to the /path/to/destination/directory directory.
---------------------------
+
+
 How to download a file from https://ir.shef.ac.uk/cloughie/resources/cisi/cisi.tar.gz using wget?
 --------------------------
 To download a file from https://ir.shef.ac.uk/cloughie/resources/cisi/cisi.tar.gz using wget, you can use the following command in a terminal or command prompt:
@@ -43,7 +44,8 @@ wget https://ir.shef.ac.uk/cloughie/resources/cisi/cisi.tar.gz -P /path/to/downl
 This will download the file to the /path/to/download/directory directory.
 
 After the download completes, you can use the tar utility as described in my previous answer to extract the contents of the cisi.tar.gz file.
---------------------------
+
+
 How do I install BM25Okapi from a python notebook?
 --------------------------
 To install the BM25Okapi package in a Python notebook, you can use the !pip command. Here are the steps:
@@ -69,7 +71,8 @@ from BM25Okapi import BM25Okapi
 
 
 Make sure to read the package documentation to understand how to use it correctly.
---------------------------
+
+
 what means nltk.download('punkt')?
 --------------------------
 nltk.download('punkt') is a command in the Natural Language Toolkit (NLTK) library for Python that downloads the punkt data package.
@@ -93,5 +96,3 @@ print(tokens)
 
 
 This will output a list of tokens: ['This', 'is', 'an', 'example', 'sentence', '.']. Note that the word_tokenize() function uses the punkt package to perform the tokenization.
---------------------------
-NEW
