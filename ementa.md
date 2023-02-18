@@ -9,8 +9,8 @@
 -	Professor(es): Roberto de Alencar Lotufo / Rodrigo Frassetto Nogueira
 -	Créditos: 4
 -	Horário: 
-  - quinta-feira das 08:00 às 10:00 
-  - quinta-feira das 10:00 às 12:00
+    - quinta-feira das 08:00 às 10:00 
+    - quinta-feira das 10:00 às 12:00
 -	Sala: PE37
 
 ## Ementa 
