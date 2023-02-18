@@ -1,12 +1,13 @@
-# Exercício para seleção aluno especial - Curso "Deep Learning aplicado a sistemas de buscas", FEEC-Unicamp, primeiro semestre de 2023.
+# Exercício para seleção aluno especial
+### Curso "Deep Learning aplicado a sistemas de buscas", FEEC-Unicamp, primeiro semestre de 2023.
 
-Como tivemos muitas inscrições de alunos especiais, precisaremos realizar um processo seletivo. 
-Neste ano, propomos desenvolver um pequeno projeto de Information Retrieval com a liberdade de utilizar o chatGPT para auxiliá-lo em todas as fases do projeto, 
-i) para aprender sobre IR, 
-ii) para codificá-lo em Python, e 
-iii) para escrever o relatório.
+Desenvolver um pequeno projeto de Information Retrieval com a liberdade de utilizar o chatGPT para auxiliá-lo em todas as fases do projeto, 
+1. para aprender sobre IR, 
+2. para codificá-lo em Python, e 
+3. para escrever o relatório.
 
-# Project Title: Building a Simple Information Retrieval System using BM25 and GPT-3 and evaluated in the CISI collection.
+## Project Title: 
+**Building a Simple Information Retrieval System using BM25 and GPT-3 and evaluated in the CISI collection.**
 
 ## Project Overview:
 The aim of this project is to introduce students to the basics of Information Retrieval (IR) and the BM25 ranking algorithm. The sollution to this project will help us to select the students to attend the course on deep learning applied to search. The students will build a simple IR system that retrieves relevant documents from a pre-defined corpus based on the user's query. The students will also use the chatGPT to assist in all phases of the project. The coding will be done using Google Colab notebooks and the deliverables will be placed in github account.
