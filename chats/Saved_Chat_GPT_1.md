@@ -9,7 +9,8 @@ The BM25 algorithm is important for information retrieval because it provides a 
 BM25 has several advantages over other ranking algorithms. For example, it does not require any prior knowledge about the collection, and it is not biased towards longer or shorter documents. It also performs well on collections with a mix of long and short documents, which can be a challenge for some other ranking algorithms.
 
 In summary, BM25 is an important ranking algorithm in information retrieval that is widely used in modern search engines. It provides a way to rank documents based on their relevance to a user's query, which is crucial for any search engine to provide accurate and useful results to its users.
---------------------------
+
+
 how could i improve a search system beyond bm25 score using chatgpt?
 --------------------------
 There are several ways to improve a search system beyond the BM25 score using ChatGPT or other language models. Here are a few ideas:
@@ -25,7 +26,8 @@ Personalization: Another way to improve the search system is to personalize the 
 Multi-modal Search: You can also improve the search system by incorporating multi-modal search capabilities, such as image or video search. ChatGPT can be used to process the user's queries in different modalities and provide more diverse and relevant search results.
 
 In summary, there are several ways to improve a search system beyond the BM25 score using ChatGPT or other language models. These include query expansion, entity extraction, natural language processing, personalization, and multi-modal search capabilities.
---------------------------
+
+
 Give me a python notebook that use BM25 for querying in the Glasgow CISI dataset.
 --------------------------
 Sure, here's a Python notebook that uses the BM25 algorithm for querying the Glasgow CISI dataset.
@@ -43,12 +45,12 @@ import json
 import nltk
 from bm25 import BM25Okapi
 
-# Set up the NLTK stopwords
+### Set up the NLTK stopwords
 nltk.download('stopwords')
 stopwords = nltk.corpus.stopwords.words('english')
 stopwords.extend(['from', 'subject', 're', 'edu', 'use'])
 
-# Define a function to preprocess the documents and queries
+### Define a function to preprocess the documents and queries
 def preprocess(text):
     # Convert the text to lowercase
     text = text.lower()
@@ -68,7 +70,7 @@ def preprocess(text):
 
     return tokens
 
-# Load the documents
+### Load the documents
 docs_path = 'cisi/CISI.ALL'
 docs = []
 with open(docs_path, 'r') as f:
@@ -93,13 +95,13 @@ with open(docs_path, 'r') as f:
     if doc_text:
         docs.append(doc_text)
 
-# Preprocess the documents
+### Preprocess the documents
 docs = [preprocess(doc) for doc in docs]
 
-# Build the BM25 index
+### Build the BM25 index
 bm25 = BM25Okapi(docs)
 
-# Load the queries
+### Load the queries
 queries_path = 'cisi/CISI.QRY'
 queries = []
 with open(queries_path, 'r') as f:
@@ -116,21 +118,21 @@ with open(queries_path, 'r') as f:
     if query_text:
         queries.append(query_text)
 
-# Preprocess the queries
+### Preprocess the queries
 queries = [preprocess(query) for query in queries]
 
-# Perform the queries
+### Perform the queries
 results = {}
 for i, query in enumerate(queries):
     doc_scores = bm25.get_scores(query)
     top_docs = sorted(range(len(doc_scores)), key=lambda i: doc_scores[i], reverse=True)[:100]
     results[i+1] = top_docs
 
-# Write the results to a file
+### Write the results to a file
 with open('bm25_results.json', 'w') as f:
     json.dump(results, f)
 
-# Print the top 10 results for each query
+### Print the top 10 results for each query
 for query_id, doc_ids in results.items():
     print('Query', query_id)
     for i, doc_id in enumerate(doc_ids[:10]):
@@ -138,16 +140,17 @@ for query_id, doc_ids in results.items():
 
 
 In this notebook, we first install the nltk and rank-bm25 packages. We then define a function
---------------------------
+
+
 Generate a report about this
 --------------------------
 Here is a report about the Python notebook that uses BM25 for querying in the Glasgow CISI dataset.
 
-Introduction
+### Introduction
 
 The notebook demonstrates how to use the BM25 algorithm for information retrieval on the Glasgow CISI dataset. BM25 is a ranking function that is commonly used in search engines and information retrieval systems. The Glasgow CISI dataset is a standard test collection for evaluating information retrieval systems. It consists of a set of documents and queries, along with relevance judgments that can be used to evaluate the performance of retrieval systems.
 
-Methodology
+### Methodology
 
 The notebook first installs the required packages, including nltk and rank-bm25. It then defines a function to preprocess the documents and queries by converting the text to lowercase, removing non-alphanumeric characters, tokenizing the text, removing stopwords, and stemming the tokens. The nltk package is used for tokenization, stopwords removal, and stemming.
 
@@ -159,12 +162,10 @@ The results of the queries are stored in a dictionary, where the keys are the qu
 
 Finally, the notebook prints the top 10 results for each query.
 
-Results
+### Results
 
 The notebook successfully performs information retrieval on the Glasgow CISI dataset using the BM25 algorithm. The results of the queries are stored in a JSON file, which can be used for further analysis or evaluation. The notebook also prints the top 10 results for each query.
 
-Conclusion
+### Conclusion
 
 In conclusion, the notebook provides a useful example of how to use the BM25 algorithm for information retrieval on a standard test collection such as the Glasgow CISI dataset. The notebook demonstrates how to preprocess the documents and queries using the nltk package and how to build a BM25 index using the rank-bm25 package. The notebook also shows how to perform queries and retrieve the top documents for each query. Overall, the notebook provides a good starting point for anyone interested in using the BM25 algorithm for information retrieval.
---------------------------
-NEW
