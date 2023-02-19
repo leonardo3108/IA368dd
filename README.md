@@ -11,3 +11,4 @@ Disciplina oferecida no período 1/2023, pelo programa de mestrado da FEEC-Unica
 ## Seleção para vaga de aluno especial - Exercício
 * [Instruções para o Projeto](exercicio-selecao.md)
 * [Google Colab notebook - Baseline BM25](Baseline_BM25.ipynb)
+* [Report generated](report.md)
