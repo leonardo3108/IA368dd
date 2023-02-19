@@ -4,7 +4,35 @@
 
 The notebook demonstrates how to use the BM25 algorithm for information retrieval on the Glasgow CISI dataset. 
 
-BM25 is a ranking function that is commonly used in search engines and information retrieval systems. 
+### BM25
+
+BM25 (Best Matching 25) is a ranking algorithm used in information retrieval (IR) to evaluate the relevance of documents to a user's query. It is one of the most widely used ranking algorithms in modern search engines and has proven to be effective in a variety of settings.
+
+It is an improvement over the popular TF-IDF (Term Frequency-Inverse Document Frequency) method, which assigns weights to terms in a document based on their frequency and rarity across a corpus of documents.
+
+The BM25 formula is as follows:
+
+$$
+BM25(q, D) = \sum_ {q_i}\left\lbrack{(k + 1) * f(q_i, D) \over f(q_i, D) + k * (1 - b + b * {|D| \over avgdl}) } * log{N - n(q_i) + 0.5 \over n(q_i) + 0.5}\right\rbrack
+$$
+
+where:
+- $q$: a query containing one or more terms
+- $D$: a document in the corpus
+- $q_i$: a term in the query
+- $f(q_i, D)$: the frequency of term $q_i$ in document $D$
+- $N$: the total number of documents in the corpus
+- $n(q_i)$: the number of documents in the corpus containing term $q_i$
+- $avgdl$: the average length of documents in the corpus
+- $k$ and $b$: free parameters used to control the impact of term frequency and document length on the relevance score. Typically, $k = 1.2$ and $b = 0.75$ are used as default values.
+
+The formula calculates a score for each document based on the term frequencies in the document and the query, as well as some characteristics of the corpus. The score represents the relevance of the document to the query, with higher scores indicating greater relevance.
+
+In general, BM25 is a more complex ranking function than TF-IDF, but it has been shown to perform better in many information retrieval tasks, especially those involving longer queries and larger document collections.
+
+The BM25 algorithm is important for information retrieval because it provides a way to rank documents based on their relevance to a user's query, which is crucial for any search engine. By ranking the documents, the search engine can present the most relevant results to the user, which can improve the user's search experience and increase the likelihood that they will find what they are looking for.
+
+### Glasgow CISI dataset
 
 The Glasgow CISI dataset is a standard test collection for evaluating information retrieval systems. 
 It consists of a set of documents and queries, along with relevance judgments that can be used to evaluate the performance of retrieval systems.
@@ -47,4 +75,4 @@ Overall, the notebook provides a good starting point for anyone interested in us
 
 ## Comment
 
-This report was automatically generated from [ChatGPT] (chats/Saved_Chat_GPT_1.md#generate-a-report-about-this), and then adjusted to include the evaluation.
+This report was automatically generated from [ChatGPT](chats/Saved_Chat_GPT_1.md#generate-a-report-about-this), and then adjusted to include the evaluation, more [BM25 explanation](chats/Saved_Chat_GPT_1.md#please-explain-me-about-the-bm25-and-its-importance-for-information-retrieval) and [formula](chats/Saved_Chat_GPT_2.md#please-explain-me-the-bm25-formula).
