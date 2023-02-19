@@ -34,8 +34,13 @@ The BM25 algorithm is important for information retrieval because it provides a 
 
 ### Glasgow CISI dataset
 
-The Glasgow CISI dataset is a standard test collection for evaluating information retrieval systems. 
-It consists of a set of documents and queries, along with relevance judgments that can be used to evaluate the performance of retrieval systems.
+The Glasgow CISI dataset is a benchmark dataset used for evaluating information retrieval (IR) systems. It was developed by the University of Glasgow's Department of Computing Science in collaboration with the Chemical Abstracts Service and is a standard test collection for evaluating IR models.
+
+The Glasgow CISI dataset consists of a corpus of 1460 documents, covering the fields of chemistry, physics, and electronics. It also includes a set of 112 queries, each with a corresponding set of relevant documents, which were assessed by human judges. The relevance judgments are binary, indicating whether a document is relevant or not for a given query.
+
+The CISI dataset has been used in a number of research studies to evaluate the effectiveness of various IR models, including vector space models, probabilistic models, and language models. It has also been used to evaluate the effectiveness of different indexing methods, query expansion techniques, and relevance feedback mechanisms.
+
+The Glasgow CISI dataset has been widely used as a standard benchmark for evaluating the performance of IR systems, and it continues to be used as a reference dataset for developing and evaluating new IR models and techniques. The dataset is freely available for academic research purposes.
 
 ## Methodology
 
@@ -75,4 +80,4 @@ Overall, the notebook provides a good starting point for anyone interested in us
 
 ## Comment
 
-This report was automatically generated from [ChatGPT](chats/Saved_Chat_GPT_1.md#generate-a-report-about-this), and then adjusted to include the evaluation, more [BM25 explanation](chats/Saved_Chat_GPT_1.md#please-explain-me-about-the-bm25-and-its-importance-for-information-retrieval) and [formula](chats/Saved_Chat_GPT_2.md#please-explain-me-the-bm25-formula).
+This report was automatically generated from [ChatGPT](chats/Saved_Chat_GPT_1.md#generate-a-report-about-this), and then adjusted to include the evaluation, more [BM25 explanation](chats/Saved_Chat_GPT_1.md#please-explain-me-about-the-bm25-and-its-importance-for-information-retrieval) and [formula](chats/Saved_Chat_GPT_2.md#please-explain-me-the-bm25-formula), and [dataset description](chats/Saved_Chat_GPT_5.md#can-you-describe-me-the-glasgow-cisi-dataset-for-information-retrieval).
