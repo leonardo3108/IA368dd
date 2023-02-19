@@ -43,3 +43,8 @@ The notebook demonstrates how to preprocess the documents and queries using the 
 The notebook also shows how to perform queries and retrieve the top documents for each query. 
 The notebook also evaluates the results obtained, with metrics precision, recall and F1 at 10 documents.
 Overall, the notebook provides a good starting point for anyone interested in using the BM25 algorithm for information retrieval.
+
+
+## Comment
+
+This report was automatically generated from [ChatGPT] (chats/Saved_Chat_GPT_1.md#generate-a-report-about-this), and then adjusted to include the evaluation.
