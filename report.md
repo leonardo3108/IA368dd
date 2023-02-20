@@ -64,9 +64,9 @@ Comparing the list of retrieved documens with relevant documents for each query,
 
 The notebook successfully performs information retrieval on the Glasgow CISI dataset using the BM25 algorithm. 
 The results was evaluated, and we obtained:
-*  Precision (@10 documents): 4,3%
-*  Recall (@10 documents): 1,5%
-*  F1 (@10 documents): 2,3%
+*  Precision (@10 documents): 24.7%
+*  Recall (@10 documents): 8.9%
+*  F1 (@10 documents): 13.1%
 The notebook also prints the top 10 results for each query.
 
 ## Conclusion
