@@ -1,0 +1,36 @@
+Gime a python code to extract up to 5 terms from the next text:
+The term 'climate change' is a synonym of the term 'climate change mitigation'.
+
+The term 'climate change mitigation' is a synonym of the term 'climate change mitigation policy'.
+
+The term 'climate change mitigation policy' is a synonym of the term 'climate change mitigation'.
+
+The term 'climate change mitigation' is a synonym of the term 'climate change mitigation policy'.
+
+The term 'climate change mitigation policy' is a synonym of the term 'climate change mitigation'.
+
+The term 'climate change mitigation' is a synonym of the term 'climate change mitigation policy'.
+
+The term 'climate change mitigation policy' is a synonym of the term 'climate change mitigation'.
+--------------------------
+Sure, here's a Python code to extract up to 5 terms from the given text:
+
+python
+Copy code
+import re
+
+text = "The term 'climate change' is a synonym of the term 'climate change mitigation'.\n\nThe term 'climate change mitigation' is a synonym of the term 'climate change mitigation policy'.\n\nThe term 'climate change mitigation policy' is a synonym of the term 'climate change mitigation'.\n\nThe term 'climate change mitigation' is a synonym of the term 'climate change mitigation policy'.\n\nThe term 'climate change mitigation policy' is a synonym of the term 'climate change mitigation'.\n\nThe term 'climate change mitigation' is a synonym of the term 'climate change mitigation policy'.\n\nThe term 'climate change mitigation policy' is a synonym of the term 'climate change mitigation'."
+
+# use regex to find all the terms
+terms = re.findall(r"'(.*?)'", text)
+
+# remove duplicate terms
+terms = list(set(terms))
+
+# print up to 5 terms
+print(terms[:5])
+
+
+This code uses regular expressions to find all the terms in the text enclosed in single quotes. It then removes any duplicate terms and finally prints up to the first 5 unique terms found.
+--------------------------
+NEW
