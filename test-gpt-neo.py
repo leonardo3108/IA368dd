@@ -46,5 +46,7 @@ terms = re.findall(r"'(.*?)'", gen_text)
 terms = list(set(terms))
 
 # print up to 5 terms
-print(terms[:5])
+print()
+print(prompt)
+print(terms[:max_terms])
 
