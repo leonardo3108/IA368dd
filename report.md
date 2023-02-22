@@ -92,10 +92,12 @@ Details of the use and adjusts and commented along the [code](Baseline_BM25.ipyn
 
 The notebook successfully performs information retrieval on the Glasgow CISI dataset using the BM25 algorithm. 
 The results was evaluated, and we obtained:
-*  Precision (@10 documents): 24.7%
-*  Recall (@10 documents): 8.9%
-*  F1 (@10 documents): 13.1%
+*  **Precision (@10 documents): 24.7%**
+*  **Recall (@10 documents): 8.9%**
+*  **F1 (@10 documents): 13.1%**
 The notebook also prints the top 10 results for each query.
+
+It's important to note that the CISI dataset lacks of relevant documents for many queries. Because of that, precision@10 could not be better than [64.5%](Precision_problems_with_CISI_dataset.ipynb).
 
 ## Conclusion
 
