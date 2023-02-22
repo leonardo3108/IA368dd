@@ -1,5 +1,9 @@
 # Building a Simple Information Retrieval System using BM25 and GPT-3 and evaluated in the CISI collection
 
+**Leonardo Augusto da Silva Pacheco** 
+
+Exercício para seleção aluno especial - Curso "Deep Learning aplicado a sistemas de buscas", FEEC-Unicamp, primeiro semestre de 2023.
+
 ## Introduction
 
 The notebook demonstrates how to use the BM25 algorithm for information retrieval on the Glasgow CISI dataset. 
@@ -83,7 +87,7 @@ Comparing the list of retrieved documens with relevant documents for each query,
 
 ### Use of ChatGTP in code and report
 
-Most of this report was automatically generated from [ChatGPT](chats/Saved_Chat_GPT_1.md#generate-a-report-about-this), and then adjusted to include the evaluation, more [BM25 explanation](chats/Saved_Chat_GPT_1.md#please-explain-me-about-the-bm25-and-its-importance-for-information-retrieval) and [formula](chats/Saved_Chat_GPT_2.md#please-explain-me-the-bm25-formula), [dataset description](chats/Saved_Chat_GPT_5.md#can-you-describe-me-the-glasgow-cisi-dataset-for-information-retrieval) and even a [self description](chats/Saved_Chat_GPT_6.md).
+Most of this report was automatically generated from [ChatGPT](chats/Saved_Chat_GPT_1.md#generate-a-report-about-this), and then adjusted to include the evaluation, more [BM25 explanation](chats/Saved_Chat_GPT_1.md#please-explain-me-about-the-bm25-and-its-importance-for-information-retrieval) and [formula](chats/Saved_Chat_GPT_2.md#please-explain-me-the-bm25-formula), [dataset description](chats/Saved_Chat_GPT_5.md#can-you-describe-me-the-glasgow-cisi-dataset-for-information-retrieval), a [self description](chats/Saved_Chat_GPT_6.md), and [further works](chats/Saved_Chat_GPT_1.md#how-could-i-improve-a-search-system-beyond-bm25-score-using-chatgpt).
 
 Even the [code](Baseline_BM25.ipynb) was mostly generated from ChatGPT, then the code was revised, tested and adjusted to perform well the desired tasks.
 Details of the use and adjusts and commented along the [code](Baseline_BM25.ipynb).
@@ -107,3 +111,13 @@ It demonstrates how to preprocess the documents and queries using the nltk packa
 
 Finally, this works demonstrate the power of using GPT-3 for producing code, reporting and sharing knowledge.
 Overall, the notebook provides a good starting point for anyone interested in information retrieval and use of GPT-3 and ChatGPT.
+
+
+### Further works 
+
+There are several ways to improve a search system beyond the BM25 score using GPT-3 or other language models. Here are a few ideas:
+- **Query Expansion:** One way to improve the search system is to expand the user's query with additional relevant terms. You can use the language model to generate synonyms or related terms for the query terms and add them to the query. This can help to improve the recall of the search system by including more relevant documents.
+- **Entity Extraction:** Another way to improve the search system is to extract entities from the user's query and use them to refine the search. For example, if the user searches for "restaurants in New York," you can extract the entity "New York" and use it to filter the search results to only include restaurants in New York.
+- **Natural Language Processing:** a language model can be used to improve the natural language processing capabilities of the search system. For example, you can use the model to identify the user's intent and provide more targeted results. You can also use the model to understand the context of the query and provide more relevant results.
+- **Personalization:** Another way to improve the search system is to personalize the results for each user based on their search history, preferences, and behavior. You can use a language model to analyze the user's search history and provide personalized recommendations.
+- **Multi-modal Search:** You can also improve the search system by incorporating multi-modal search capabilities, such as image or video search. language model can be used to process the user's queries in different modalities and provide more diverse and relevant search results.
