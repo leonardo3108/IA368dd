@@ -2,8 +2,9 @@
 
 # Deep Learning aplicado a sistemas de buscas - IA368 DD
 
-Registro do Curso "IA368 - Tópicos em Engenharia de Computação V - Turma: DD - 
-Disciplina oferecida no período 1/2023, pelo programa de mestrado da FEEC-Unicamp.
+Registro do Curso [IA368 - Tópicos em Engenharia de Computação V - Turma: DD](https://www.cpg.feec.unicamp.br/cpg/lista/caderno_horario_show.php?id=1779)
+
+Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da FEEC-Unicamp](https://www.fee.unicamp.br/pos-graduacao/).
 
 ## Materiais principais 
 * [Ementa do curso](ementa.md)
