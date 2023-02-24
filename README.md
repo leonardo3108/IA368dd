@@ -7,6 +7,9 @@ Disciplina oferecida no período 1/2023, pelo programa de mestrado da FEEC-Unica
 
 ## Materiais principais 
 * [Ementa do curso](ementa.md)
+* Repositório de curso anterior:
+  * [IA025 - Introdução ao Aprendizado Profundo](https://github.com/leonardo3108/ia025a)
+  * [IA376 - Deep Learning for NLP](https://www.dac.unicamp.br/portal/caderno-de-horarios/2021/2/S/P/FEEC/IA376)
 
 ## Seleção para vaga de aluno especial - Exercício
 * [Instruções para o Projeto](selecao/exercicio-selecao.md)
