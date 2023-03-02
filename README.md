@@ -11,6 +11,8 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Cursos anteriores:
   * [IA025 - Introdução ao Aprendizado Profundo](https://github.com/leonardo3108/ia025a)
   * [IA376 - Deep Learning for NLP](https://colab.research.google.com/github/robertoalotufo/rnap/blob/master/PyTorch/0_index.ipynb)
+* [Slides do curso](Slides%20do%20Curso.pdf)
+* [Instruções, regras e dicas](instrucoes.md)
 
 ## Seleção para vaga de aluno especial - Exercício
 * [Instruções para o Projeto](selecao/exercicio-selecao.md)
@@ -21,7 +23,10 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 1 - 02/03/2023
 * Assuntos
-* Exercício
+  * Apresentação do curso
+  * [Instruções, regras e dicas](instrucoes.md)
+  * Sparse Retrieval with BM25
+* [Exercício](selecao#sele%C3%A7%C3%A3o-para-vaga-de-aluno-especial---exerc%C3%ADcio)
 * Materiais complementares
 
 ### Aula 2 - 09/03/2023
