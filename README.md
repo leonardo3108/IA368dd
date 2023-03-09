@@ -31,7 +31,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 2 - 09/03/2023
 * Assuntos
-* Exercício
+* [Exercício](exercicios/Aula%202/README.md)
 * Leitura/resumo
   * Artigo
     * Artigo anotado
