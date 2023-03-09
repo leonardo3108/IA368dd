@@ -1,7 +1,7 @@
 # Instruções, regras e dicas
 
 * Presentes nos [slides do Curso](Slides%20do%20Curso.pdf).
-* Link do [roteiro do curso](main#readme)
+* Link do [roteiro do curso](https://github.com/leonardo3108/IA368dd#readme)
 
 ## Roteiros das Aulas
 3 horas no total, sendo:
