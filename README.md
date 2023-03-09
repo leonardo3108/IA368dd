@@ -31,9 +31,10 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 2 - 09/03/2023
 * Assuntos
+  * Rerank
 * [Exercício](exercicios/Aula%202/README.md)
 * Leitura/resumo
-  * Artigo
+  * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler até final do capítulo 1
     * Artigo anotado
   * Resumo
 * Materiais complementares
