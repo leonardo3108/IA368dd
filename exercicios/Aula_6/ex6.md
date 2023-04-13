@@ -21,3 +21,9 @@ O treino é relativamente rápido (<1 hora).
 1. [Finetuning do modelo](Aula_6_Finetuning.ipynb)
 2. [Geração das queries](Aula_6_Generation.ipynb)
 3. [Indexação, busca e avaliação](Aula_6_Indexing_Search_Evaluation.ipynb)
+
+  
+## Resultados
+Métrica: nDCG@10
+* documentos originais:  0,5963
+* documentos aumentados: 0,6373
