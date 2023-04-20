@@ -37,3 +37,12 @@ Dicas:
 ## Resultados
 Métrica: nDCG@10
 * busca exaustiva:  0,2934
+
+
+## Agradecimento
+
+Efusivo a todos os colegas que publicaram código e ideias desde a aula anterior.
+
+Em especial a:
+* [Leandro Carísio](https://github.com/carisio/IA368-DD_deep_learning_busca), que inspirou boa parte das implementações que fiz e testei
+* [Marcus Borela](https://github.com/marcusborela/deep_learning_em_buscas_unicamp), que me ajudou a entender os conceitos e verificar o código
