@@ -36,8 +36,8 @@ Dicas:
   
 ## Resultados
 Métrica: nDCG@10
-* busca exaustiva:  0,2934
-
+* modelo ajustado - busca exaustiva:  0,2934
+* sentence-transformers/all-mpnet-base-v2: 0,5032
 
 ## Agradecimento
 
