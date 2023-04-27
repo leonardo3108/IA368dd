@@ -39,10 +39,9 @@ A apresentação deve cobrir pelo menos 3 dos 7 itens abaixo:
 - Uma dúvida "básica" que você ou os colegas possam ter
 - Um tópico "avançado" para discutirmos
 
-
 ## Roteiro para Apresentação do Artigo
 
-A apresentação deve cobrir pelo menos 2 dos 5 itens abaixo:
+A [apresentação](artigos/Template%20-%20Artigo.pptx) deve cobrir pelo menos 2 dos 5 itens abaixo:
 - Explicação de conceitos importantes do artigo
 - A contribuição do artigo
 - Resultados interessantes/inesperados
