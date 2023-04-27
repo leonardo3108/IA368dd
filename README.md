@@ -34,7 +34,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * [Exercício](exercicios/Aula%202/README.md)
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler até final do capítulo 1
-    * [Artigo anotado](Aula%202/Pretrained%20Transformers%20for%20Text%20Ranking%20-%20BERT%20and%20Beyond%20-%20anotado.pdf)
+    * [Artigo anotado](artigos/Aula%202/Pretrained%20Transformers%20for%20Text%20Ranking%20-%20BERT%20and%20Beyond%20-%20anotado.pdf)	           
   * Resumo
 * Materiais complementares
 
@@ -43,7 +43,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * Reranqueamento com classificador neural
 * Exercício
 * Leitura/resumo
-  * Artigo: [artigos/Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler a Seção 3 até a 3.2.2
+  * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler a Seção 3 até a 3.2.2
   * Resumo
 * Materiais complementares
 
