@@ -25,13 +25,12 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * Apresentação do curso
   * [Instruções, regras e dicas](instrucoes.md)
-  * Sparse Retrieval with BM25
 * [Exercício](selecao#sele%C3%A7%C3%A3o-para-vaga-de-aluno-especial---exerc%C3%ADcio)
 * Materiais complementares
 
 ### Aula 2 - 09/03/2023
 * Assuntos
-  * Rerank
+  * Buscador booleano e BM25
 * [Exercício](exercicios/Aula%202/README.md)
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler até final do capítulo 1
@@ -41,6 +40,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 3 - 16/03/2023
 * Assuntos
+  * Reranqueamento com classificador neural
 * Exercício
 * Leitura/resumo
   * Artigo
@@ -50,6 +50,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 4 - 23/03/2023
 * Assuntos
+  * LLM - aprendizado contextual
 * Exercício
 * Leitura/resumo
   * Artigo
@@ -59,6 +60,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 5 - 30/03/2023
 * Assuntos
+  * Treino de Modelo de Linguagem
 * Exercício
 * Leitura/resumo
   * Artigo
@@ -68,6 +70,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 6 - 13/04/2023
 * Assuntos
+  * doc2query
 * Exercício
 * Leitura/resumo
   * Artigo
@@ -77,6 +80,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 7 - 20/04/2023
 * Assuntos
+  * busca densa
 * Exercício
 * Leitura/resumo
   * Artigo
@@ -86,6 +90,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 8 - 27/04/2023
 * Assuntos
+  * busca esparsa aprendida
 * Exercício
 * Leitura/resumo
   * Artigo
@@ -95,6 +100,8 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 
 ### Aula 9 - 04/05/2023
 * Assuntos
+  * Transfer Learning usando LLMs
+  * Geração de datasets para busca com InPars
 * Exercício
 * Leitura/resumo
   * Artigo
