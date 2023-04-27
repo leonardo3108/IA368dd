@@ -34,7 +34,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * [Exercício](exercicios/Aula%202/README.md)
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler até final do capítulo 1
-    * Artigo anotado
+    * [Artigo anotado](Aula 2/Pretrained Transformers for Text Ranking - BERT and Beyond - anotado.pdf)
   * Resumo
 * Materiais complementares
 
@@ -44,7 +44,6 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Exercício
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler a Seção 3 até a 3.2.2
-    * Artigo anotado
   * Resumo
 * Materiais complementares
 
@@ -54,7 +53,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Exercício
 * Leitura/resumo
   * Artigo: [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
-    * Artigo anotado
+    * [Artigo anotado](Aula_4/Language Models are Few-Shot Learners - Anotado.pdf)
   * Resumo
 * Materiais complementares
 
@@ -64,7 +63,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Exercício
 * Leitura/resumo
   * Artigo: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-    * Artigo anotado
+    * [Artigo anotado](Aula_5/language_models_are_unsupervised_multitask_learners - anotado.pdf)
   * Resumo
 * Materiais complementares
 
@@ -74,9 +73,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Exercício
 * Leitura/resumo
   * Artigo: [Document Expansion by Query Prediction](https://arxiv.org/pdf/1904.08375.pdf)
-    * Artigo anotado
+    * [Artigo anotado](Aula_6/Document Expansion by Query Prediction - Anotado.pdf)
   * Artigo: [From doc2query to docTTTTTquery](https://www.researchgate.net/profile/Rodrigo-Nogueira-19/publication/360890853_From_doc2query_to_docTTTTTquery/links/6290b0e98d19206823dfcc55/From-doc2query-to-docTTTTTquery.pdf)
-    * Artigo anotado
+    * [Artigo anotado](Aula_6/From doc2query to docTTTTTquery - Anotado.pdf)
   * Resumo
 * Materiais complementares
 
@@ -86,9 +85,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Exercício
 * Leitura/resumo
   * Artigo: [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
-    * Artigo anotado
+    * [Artigo anotado](Aula_7/Dense Passage Retrieval for Open-Domain Question Answering - anotado.pdf)
   * Artigo: [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT  (https://arxiv.org/pdf/2004.12832.pdf) - opcional
-    * Artigo anotado
+    * [Artigo anotado](Aula_7/ColBERT - Eficient and Effective Passage Search via Contextualized Late Interaction over BERT - anotado.pdf)
   * Resumo
 * Materiais complementares
 
