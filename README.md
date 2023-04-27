@@ -43,7 +43,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * Reranqueamento com classificador neural
 * Exercício
 * Leitura/resumo
-  * Artigo
+  * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler a Seção 3 até a 3.2.2
     * Artigo anotado
   * Resumo
 * Materiais complementares
@@ -53,7 +53,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * LLM - aprendizado contextual
 * Exercício
 * Leitura/resumo
-  * Artigo
+  * Artigo: [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
     * Artigo anotado
   * Resumo
 * Materiais complementares
@@ -63,7 +63,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * Treino de Modelo de Linguagem
 * Exercício
 * Leitura/resumo
-  * Artigo
+  * Artigo: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
     * Artigo anotado
   * Resumo
 * Materiais complementares
@@ -73,7 +73,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * doc2query
 * Exercício
 * Leitura/resumo
-  * Artigo
+  * Artigo: [Document Expansion by Query Prediction](https://arxiv.org/pdf/1904.08375.pdf)
+    * Artigo anotado
+  * Artigo: [From doc2query to docTTTTTquery](https://www.researchgate.net/profile/Rodrigo-Nogueira-19/publication/360890853_From_doc2query_to_docTTTTTquery/links/6290b0e98d19206823dfcc55/From-doc2query-to-docTTTTTquery.pdf)
     * Artigo anotado
   * Resumo
 * Materiais complementares
@@ -83,7 +85,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * busca densa
 * Exercício
 * Leitura/resumo
-  * Artigo
+  * Artigo: [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
+    * Artigo anotado
+  * Artigo: [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT  (https://arxiv.org/pdf/2004.12832.pdf) - opcional
     * Artigo anotado
   * Resumo
 * Materiais complementares
@@ -93,7 +97,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * busca esparsa aprendida
 * Exercício
 * Leitura/resumo
-  * Artigo
+  * Artigo: [SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking](https://arxiv.org/pdf/2107.05720.pdf)
+    * Artigo anotado
+  * Artigo: [SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval](https://arxiv.org/pdf/2109.10086.pdf) - opcional
     * Artigo anotado
   * Resumo
 * Materiais complementares
@@ -104,7 +110,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * Geração de datasets para busca com InPars
 * Exercício
 * Leitura/resumo
-  * Artigo
+  * Artigo: [InPars: Unsupervised Dataset Generation for Information Retrieval](https://www.researchgate.net/profile/Rodrigo-Nogueira-19/publication/361828630_InPars_Unsupervised_Dataset_Generation_for_Information_Retrieval/links/6373aac4431b1f53009e16a5/InPars-Unsupervised-Dataset-Generation-for-Information-Retrieval.pdf)
     * Artigo anotado
   * Resumo
 * Materiais complementares
