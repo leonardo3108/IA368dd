@@ -35,7 +35,6 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler até final do capítulo 1
     * [Artigo anotado](artigos/Aula%202/Pretrained%20Transformers%20for%20Text%20Ranking%20-%20BERT%20and%20Beyond%20-%20anotado.pdf)	           
-  * Resumo
 * Materiais complementares
 
 ### Aula 3 - 16/03/2023
@@ -44,7 +43,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Exercício
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler a Seção 3 até a 3.2.2
-  * Resumo
+    * [Artigo anotado](artigos/Aula%202/Pretrained%20Transformers%20for%20Text%20Ranking%20-%20BERT%20and%20Beyond%20-%20anotado.pdf)	           
 * Materiais complementares
 
 ### Aula 4 - 23/03/2023
@@ -54,7 +53,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Leitura/resumo
   * Artigo: [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
     * [Artigo anotado](artigos/Aula_4/Language%20Models%20are%20Few-Shot%20Learners%20-%20Anotado.pdf)
-  * Resumo
+  * [Apresentação](artigos/Aula_4/Language_Models_are_Few-Shot_Learners.pptx)
 * Materiais complementares
 
 ### Aula 5 - 30/03/2023
@@ -64,7 +63,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Leitura/resumo
   * Artigo: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
     * [Artigo anotado](artigos/Aula_5/language_models_are_unsupervised_multitask_learners%20-%20anotado.pdf)
-  * Resumo
+  * [Apresentação](artigos/Aula_5/Language_Models_are_Unsupervised_Multitask_Learners.pptx)
 * Materiais complementares
 
 ### Aula 6 - 13/04/2023
@@ -76,7 +75,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
     * [Artigo anotado](artigos/Aula_6/Document%20Expansion%20by%20Query%20Prediction%20-%20Anotado.pdf)
   * Artigo: [From doc2query to docTTTTTquery](https://www.researchgate.net/profile/Rodrigo-Nogueira-19/publication/360890853_From_doc2query_to_docTTTTTquery/links/6290b0e98d19206823dfcc55/From-doc2query-to-docTTTTTquery.pdf)
     * [Artigo anotado](artigos/Aula_6/From%20doc2query%20to%20docTTTTTquery%20-%20Anotado.pdf)
-  * Resumo
+  * [Apresentação](artigos/Aula_6/doc2query.pptx)
 * Materiais complementares
 
 ### Aula 7 - 20/04/2023
@@ -88,7 +87,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
     * [Artigo anotado](artigos/Aula_7/Dense%20Passage%20Retrieval%20for%20Open-Domain%20Question%20Answering%20-%20anotado.pdf)
   * Artigo: [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT  (https://arxiv.org/pdf/2004.12832.pdf) - opcional
     * [Artigo anotado](artigos/Aula_7/ColBERT%20-%20Eficient%20and%20Effective%20Passage%20Search%20via%20Contextualized%20Late%20Interaction%20over%20BERT%20-%20anotado.pdf)
-  * Resumo
+  * [Apresentação](artigos/Aula_7/DPR+ColBERT.pptx)
 * Materiais complementares
 
 ### Aula 8 - 27/04/2023
@@ -98,7 +97,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Leitura/resumo
   * Artigo: [SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking](https://arxiv.org/pdf/2107.05720.pdf)
   * Artigo: [SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval](https://arxiv.org/pdf/2109.10086.pdf) - opcional
-  * Resumo
+  * [Apresentação](artigos/Aula_8/SPLADE.pptx)
 * Materiais complementares
 
 ### Aula 9 - 04/05/2023
