@@ -27,19 +27,18 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * Apresentação do curso
   * [Instruções, regras e dicas](instrucoes.md)
-* [Exercício](selecao#sele%C3%A7%C3%A3o-para-vaga-de-aluno-especial---exerc%C3%ADcio)
-  * Enunciado
-  * Notebook
-  * Apresentação
+* Exercício - [Seleção para vaga de aluno especial](selecao#sele%C3%A7%C3%A3o-para-vaga-de-aluno-especial---exerc%C3%ADcio)
+  * [Enunciado](selecao/exercicio-selecao.md)
+  * [Notebook](selecao/Baseline_BM25.ipynb)
+  * [Relatório](selecao/report.md)
 * Materiais complementares
 
 ### Aula 2 - 09/03/2023
 * Assuntos
   * Buscador booleano e BM25
-* [Exercício](exercicios/Aula%202/README.md)
-  * Enunciado
-  * Notebook
-  * Apresentação
+* Exercício - [Buscador booleano/BoW e TF-IDF](exercicios/Aula%202/README.md)
+  * [Enunciado](exercicios/Aula%202/README.md#enunciado)
+  * [Artefatos gerados](exercicios/Aula%202/README.md#artefatos-gerados)
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler até final do capítulo 1
     * [Artigo anotado](artigos/Aula%202/Pretrained%20Transformers%20for%20Text%20Ranking%20-%20BERT%20and%20Beyond%20-%20anotado.pdf)	           
@@ -49,9 +48,8 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * Reranqueamento com classificador neural
 * Exercício
-  * Enunciado
-  * Notebook
-  * Apresentação
+  * [Enunciado](exercicios/Aula_3/enunciado.md)
+  * [Notebook[(exercicios/Aula_3/Aula_3_Rerank.ipynb)
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler a Seção 3 até a 3.2.2
     * [Artigo anotado](artigos/Aula%202/Pretrained%20Transformers%20for%20Text%20Ranking%20-%20BERT%20and%20Beyond%20-%20anotado.pdf)	           
@@ -61,8 +59,8 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * LLM - aprendizado contextual
 * Exercício
-  * Enunciado
-  * Notebook
+  * [Enunciado](exercicios/Aula_4/enunciado.md)
+  * [Notebook](exercicios/Aula_4/Sentiment_Analisys_with_GPT_3_1000_texts.ipynb)
   * Apresentação
 * Leitura/resumo
   * Artigo: [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
