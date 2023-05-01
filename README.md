@@ -128,12 +128,14 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * Transfer Learning usando LLMs
   * Geração de datasets para busca com InPars
-* Exercício
-  * Enunciado
+* Exercício - InPars
+  * [Enunciado](exercicios/Aula_9/enunciado.md)
   * Notebook
   * Apresentação
 * Leitura/resumo
-  * Artigo: [InPars: Unsupervised Dataset Generation for Information Retrieval](https://www.researchgate.net/profile/Rodrigo-Nogueira-19/publication/361828630_InPars_Unsupervised_Dataset_Generation_for_Information_Retrieval/links/6373aac4431b1f53009e16a5/InPars-Unsupervised-Dataset-Generation-for-Information-Retrieval.pdf)
+  * Artigo: [InPars: Unsupervised Dataset Generation for Information Retrieval](https://arxiv.org/pdf/2202.05144.pdf)
+    * Artigo anotado
+  * Artigo: [InPars-v2: Large Language Models as Efficient Dataset Generators for Information Retrieval](https://arxiv.org/pdf/2301.01820.pdf)
     * Artigo anotado
   * Resumo
 * Materiais complementares
