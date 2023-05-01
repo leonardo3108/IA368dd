@@ -9,4 +9,5 @@ Reranqueamento usando um modelo estilo-BERT com o treinamento no dataset do MS M
   * https://huggingface.co/nreimers/MiniLM-L6-H384-uncased pois oferece um bom compromisso entre qualidade e velocidade.
 * Sugestão: usar este notebook como base
 * Análise de sentimentos (dataset IMDB) usando um modelo estilo BERT: https://colab.research.google.com/drive/10etP7Lb915EC-uEuf1IKC8DYkyg_om6-?usp=sharing
-* Sugestão de debug: usar este minilm para ver se consegue ndcg ~0.70: https://huggingface.co/cross-encoder/ms-marco-MiniLM-L-6-v2Sugestão: fazer overfit em um batch: treinar por 200 epocas um unico batch, e ver se consegue loss=0, e acuracia=100%, ou ndcg=1
+* Sugestão de debug: usar este minilm para ver se consegue ndcg ~0.70: https://huggingface.co/cross-encoder/ms-marco-MiniLM-L-6-v2
+* Sugestão: fazer overfit em um batch: treinar por 200 epocas um unico batch, e ver se consegue loss=0, e acuracia=100%, ou ndcg=1
