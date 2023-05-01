@@ -13,6 +13,8 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * [IA376 - Deep Learning for NLP](https://colab.research.google.com/github/robertoalotufo/rnap/blob/master/PyTorch/0_index.ipynb)
 * [Slides do curso](Slides%20do%20Curso.pdf)
 * [Instruções, regras e dicas](instrucoes.md)
+* [Laboratório de Processamento de Linguagem Natural e Deep Learning DCA-FEEC UNICAMP](https://sites.google.com/unicamp.br/deep-learning-nlp)
+* [Comunidade no Hugging Face](https://huggingface.co/unicamp-dl)
 
 ## Seleção para vaga de aluno especial - Exercício
 * [Instruções para o Projeto](selecao/exercicio-selecao.md)
