@@ -61,7 +61,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Exercício
   * [Enunciado](exercicios/Aula_4/enunciado.md)
   * [Notebook](exercicios/Aula_4/Sentiment_Analisys_with_GPT_3_1000_texts.ipynb)
-  * Apresentação
+  * [Apresentação](exercicios/Aula_4/Notebook%20-%20Aula%204.pptx)
 * Leitura/resumo
   * Artigo: [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
     * [Artigo anotado](artigos/Aula_4/Language%20Models%20are%20Few-Shot%20Learners%20-%20Anotado.pdf)
@@ -72,9 +72,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * Treino de Modelo de Linguagem
 * Exercício
-  * Enunciado
-  * Notebook
-  * Apresentação
+  * [Enunciado](exercicios/Aula_5/enunciado.md)
+  * [Notebook](exercicios/Aula_5/Aula_5_Treino_Modelo_de_Linguagem.ipynb)
+  * [Apresentação](exercicios/Aula_5/Aula%204_5%20-%20Notebook%20Treino%20Modelo%20de%20Linguagem.pptx)
 * Leitura/resumo
   * Artigo: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
     * [Artigo anotado](artigos/Aula_5/language_models_are_unsupervised_multitask_learners%20-%20anotado.pdf)
@@ -84,10 +84,10 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 ### Aula 6 - 13/04/2023
 * Assuntos
   * doc2query
-* Exercício
-  * Enunciado
-  * Notebook
-  * Apresentação
+* Exercício - [Aula 5/6](exercicios/Aula_6/ex6.md)
+  * [Enunciado](exercicios/Aula_6/ex6.md#enunciado)
+  * [Notebooks](exercicios/Aula_6/ex6.md#solução---etapas)
+  * [Apresentação](exercicios/Aula_6/Aula%205_6%20-%20Notebooks%20T5%20%2B%20Doc2query.pptx)
 * Leitura/resumo
   * Artigo: [Document Expansion by Query Prediction](https://arxiv.org/pdf/1904.08375.pdf)
     * [Artigo anotado](artigos/Aula_6/Document%20Expansion%20by%20Query%20Prediction%20-%20Anotado.pdf)
@@ -99,10 +99,10 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 ### Aula 7 - 20/04/2023
 * Assuntos
   * busca densa
-* Exercício
-  * Enunciado
-  * Notebook
-  * Apresentação
+* Exercício - [Aula 6/7 - fazer-finetuning-de-um-buscador-denso](exercicios/Aula_7/ex7.md)
+  * [Enunciado](exercicios/Aula_7/ex7.md#enunciado---fazer-finetuning-de-um-buscador-denso)
+  * [Notebooks](exercicios/Aula_7/ex7.md#solução---etapas)
+  * [Apresentação](exercicios/Aula_7/Aula%206_7%20-%20Fazer%20finetuning%20de%20um%20buscador%20denso.pptx)
 * Leitura/resumo
   * Artigo: [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
     * [Artigo anotado](artigos/Aula_7/Dense%20Passage%20Retrieval%20for%20Open-Domain%20Question%20Answering%20-%20anotado.pdf)
@@ -114,10 +114,10 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 ### Aula 8 - 27/04/2023
 * Assuntos
   * busca esparsa aprendida
-* Exercício
-  * Enunciado
-  * Notebook
-  * Apresentação
+* Exercício - Busca esparsa - SPLADE
+  * [Enunciado](exercicios/Aula_8/enunciado.md)
+  * [Notebook](exercicios/Aula_8/Aula_8_SPLADE.ipynb)
+  * [Apresentação](exercicios/Aula_8/Aula%207_8%20-%20Notebook%20-%20SPLADE.pptx)
 * Leitura/resumo
   * Artigo: [SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking](https://arxiv.org/pdf/2107.05720.pdf)
   * Artigo: [SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval](https://arxiv.org/pdf/2109.10086.pdf) - opcional
