@@ -27,3 +27,6 @@ O treino é relativamente rápido (<1 hora).
 Métrica: nDCG@10
 * documentos originais:  0,5963
 * documentos aumentados: 0,6373
+
+## Apresentação
+* [Aula 5_6 - Notebooks T5 + Doc2query](exercicios/Aula_6/Aula%205_6%20-%20Notebooks%20T5%20%2B%20Doc2query.pptx)
