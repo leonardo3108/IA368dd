@@ -28,12 +28,18 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * Apresentação do curso
   * [Instruções, regras e dicas](instrucoes.md)
 * [Exercício](selecao#sele%C3%A7%C3%A3o-para-vaga-de-aluno-especial---exerc%C3%ADcio)
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Materiais complementares
 
 ### Aula 2 - 09/03/2023
 * Assuntos
   * Buscador booleano e BM25
 * [Exercício](exercicios/Aula%202/README.md)
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler até final do capítulo 1
     * [Artigo anotado](artigos/Aula%202/Pretrained%20Transformers%20for%20Text%20Ranking%20-%20BERT%20and%20Beyond%20-%20anotado.pdf)	           
@@ -43,6 +49,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * Reranqueamento com classificador neural
 * Exercício
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler a Seção 3 até a 3.2.2
     * [Artigo anotado](artigos/Aula%202/Pretrained%20Transformers%20for%20Text%20Ranking%20-%20BERT%20and%20Beyond%20-%20anotado.pdf)	           
@@ -52,6 +61,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * LLM - aprendizado contextual
 * Exercício
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo: [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
     * [Artigo anotado](artigos/Aula_4/Language%20Models%20are%20Few-Shot%20Learners%20-%20Anotado.pdf)
@@ -62,6 +74,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * Treino de Modelo de Linguagem
 * Exercício
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
     * [Artigo anotado](artigos/Aula_5/language_models_are_unsupervised_multitask_learners%20-%20anotado.pdf)
@@ -72,6 +87,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * doc2query
 * Exercício
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo: [Document Expansion by Query Prediction](https://arxiv.org/pdf/1904.08375.pdf)
     * [Artigo anotado](artigos/Aula_6/Document%20Expansion%20by%20Query%20Prediction%20-%20Anotado.pdf)
@@ -84,6 +102,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * busca densa
 * Exercício
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo: [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
     * [Artigo anotado](artigos/Aula_7/Dense%20Passage%20Retrieval%20for%20Open-Domain%20Question%20Answering%20-%20anotado.pdf)
@@ -96,6 +117,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * Assuntos
   * busca esparsa aprendida
 * Exercício
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo: [SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking](https://arxiv.org/pdf/2107.05720.pdf)
   * Artigo: [SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval](https://arxiv.org/pdf/2109.10086.pdf) - opcional
@@ -107,6 +131,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * Transfer Learning usando LLMs
   * Geração de datasets para busca com InPars
 * Exercício
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo: [InPars: Unsupervised Dataset Generation for Information Retrieval](https://www.researchgate.net/profile/Rodrigo-Nogueira-19/publication/361828630_InPars_Unsupervised_Dataset_Generation_for_Information_Retrieval/links/6373aac4431b1f53009e16a5/InPars-Unsupervised-Dataset-Generation-for-Information-Retrieval.pdf)
     * Artigo anotado
@@ -116,6 +143,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 ### Aula 10 - 11/05/2023
 * Assuntos
 * Exercício
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo
     * Artigo anotado
@@ -125,6 +155,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 ### Aula 11 - 18/05/2023
 * Assuntos
 * Exercício
+  * Enunciado
+  * Notebook
+  * Apresentação
 * Leitura/resumo
   * Artigo
     * Artigo anotado
