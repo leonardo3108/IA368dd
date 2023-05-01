@@ -49,7 +49,7 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
   * Reranqueamento com classificador neural
 * Exercício
   * [Enunciado](exercicios/Aula_3/enunciado.md)
-  * [Notebook[(exercicios/Aula_3/Aula_3_Rerank.ipynb)
+  * [Notebook](exercicios/Aula_3/Aula_3_Rerank.ipynb)
 * Leitura/resumo
   * Artigo: [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) - Ler a Seção 3 até a 3.2.2
     * [Artigo anotado](artigos/Aula%202/Pretrained%20Transformers%20for%20Text%20Ranking%20-%20BERT%20and%20Beyond%20-%20anotado.pdf)	           
