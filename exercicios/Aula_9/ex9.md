@@ -31,11 +31,13 @@ Colocar dataset no formato jsonlines:
 ## Solução - Etapas 
 1. [Geração dos exemplos positivos](Aula_9_1k_Queries_Positive_Generation.ipynb)
 2. [Geração dos exemplos negativos](Aula_9_Queries_Negative_Generation.ipynb)
-WIP
+3. [Treinamento do modelo](Aula_9_Inpairs_Finetuning.ipynb) - (WIP)
+4. Busca e rerank
+
   
 ## Resultados
-WIP
+N/D
 
 ## Agradecimento
-WIP
+N/D
 
