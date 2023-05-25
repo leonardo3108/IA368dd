@@ -15,6 +15,9 @@ Disciplina oferecida no período 1/2023, pelo [programa de pós-graduação da F
 * [Instruções, regras e dicas](instrucoes.md)
 * [Laboratório de Processamento de Linguagem Natural e Deep Learning DCA-FEEC UNICAMP](https://sites.google.com/unicamp.br/deep-learning-nlp)
 * [Comunidade no Hugging Face](https://huggingface.co/unicamp-dl)
+* Projeto final:
+  * Repositório de código: https://github.com/marcusborela/ind-e
+  * Mural: https://miro.com/app/board/uXjVO-OAf1w=/
 
 ## Seleção para vaga de aluno especial - Exercício
 * [Instruções para o Projeto](selecao/exercicio-selecao.md)
