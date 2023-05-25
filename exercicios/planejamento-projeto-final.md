@@ -1,0 +1,22 @@
+- 18/05 - Escolha do Projeto
+- 25/05 - Apresentação do Plano do Projeto
+- 15/06 - Entrega I
+  - Planejamento:
+    - Definir base de dados
+    - Definir métricas
+  - Frente Modelo:
+    - Preparar dados de indexações
+    - Treinar modelo
+  - Frente Avaliação:
+    - Preparar dados do sistema alvo
+    - Criar queries
+    - Montar base de avaliação
+- 22/06 - Entrega II
+  - Frente Modelo:
+    - Expandir bases
+    - Expandir consultas
+  - Frente Avaliação:
+    - Realizar experimentos
+- 29/09 - Apresentação e Entrega Final
+  - Relatório
+  - Apresentação final
